@@ -1,0 +1,24 @@
+<PERSONEL>
+    <GenelBilgiler>
+        <adi>Buttercup Power</adi>
+        <kullaniciadi>1234</kullaniciadi>
+        <gsm>7456</gsm>
+        <eposta>buttercup.pw@powergirls.com</eposta>
+        <dogumtarihi>26/05/1870</dogumtarihi>
+    </GenelBilgiler>
+    <KisiselBilgiler>
+        <kimliknumarasi>123456789</kimliknumarasi>
+        <ulke>ABD</ulke>
+        <kisiselgsm>5647</kisiselgsm>
+        <evadresi>
+            <sokak>Smith</sokak>
+            <no>1</no>
+            <sehir>Washington</sehir>
+        </evadresi>
+    </KisiselBilgiler>
+    <YakınBigileri>
+        <adi>Profesör Utonium</adi>
+        <gsm>2345</gsm>
+        <yakinlikderecesi>Babası</yakinlikderecesi>
+    </YakınBigileri>
+</PERSONEL>
