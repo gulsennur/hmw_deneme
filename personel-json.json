@@ -2,13 +2,13 @@
   "PERSONEL": {
     "GenelBilgiler": {
       "adi": "Buttercup Power",
-      "kullaniciadi": "12344",
+      "kullaniciadi": 12344,
       "gsm": 7456,
       "eposta": "buttercup.pw@powergirls.com",
       "dogumtarihi": "26/05/1870"
     },
     "KisiselBilgiler": {
-      "kimliknumarasi": "123456789",
+      "kimliknumarasi": 123456789,
       "ulke": "ADD",
       "kisiselgsm": 5647,
       "evadresi": {
@@ -22,4 +22,5 @@
       "gsm": 2345,
       "yakinlikderecesi": "Babası"
     }
-  },
+  }
+}
